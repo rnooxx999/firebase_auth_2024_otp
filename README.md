@@ -12,6 +12,5 @@ AUTH Firebase & Firestore
 - wating For Otp SMS
 - Virificaton the code
 
-
-Uploading video-output-E32A9E06-0834-47F9-BD63-58FEF1537C31.MP4…
+https://github.com/user-attachments/assets/69b77a3a-e7bf-4849-b05f-d0e77ecdd8de
 
