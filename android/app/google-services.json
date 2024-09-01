@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714059208574",
+    "project_id": "fir-2024-auth",
+    "storage_bucket": "fir-2024-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714059208574:android:f72c1fd1a88278a91f452f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZJBVj3y1EgfnAPNm9LEPzJ-NFf968zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
