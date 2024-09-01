@@ -1,17 +1,17 @@
 # firebase_auth_2024
 
-A new Flutter project.
 
-## Getting Started
+AUTH Firebase & Firestore
 
-This project is a starting point for a Flutter application.
+- Sign up with email
+- Sign in with email
+- Sign up with google
+- Sign up with facebook
 
-A few resources to get you started if this is your first Flutter project:
+- Sign up with your Phone Number
+- wating For Otp SMS
+- Virificaton the code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# firebase_auth_2024_otp
+Uploading video-output-E32A9E06-0834-47F9-BD63-58FEF1537C31.MP4…
+
